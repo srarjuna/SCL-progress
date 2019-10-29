@@ -43,8 +43,6 @@
 
 #### Guidelines.
 
-<br>
-
 One can directly go to the [README.md file](<https://github.com/soulbliss/SCL-progress/blob/master/README.md>) and click on the edit button on the right most side.
 
 
@@ -72,7 +70,7 @@ One can directly go to the [README.md file](<https://github.com/soulbliss/SCL-pr
 - [ ] Add a faq page (what are md files)
 
 
-
+<br>
 
 ## Instructions for building the site locally
 
