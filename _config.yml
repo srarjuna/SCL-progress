@@ -1,5 +1,5 @@
 title: SCL-progress
 description: An open sourced initiative to track the progress in Sanskrit Computational Linguistics and compile the resources tools and datasets so anyone can get started easily.
 show_downloads: false
-google_analytics:
+google_analytics: "UA-146788124-5"
 theme: jekyll-theme-slate
