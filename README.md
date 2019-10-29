@@ -49,7 +49,7 @@ One can directly go to the [README.md file](<https://github.com/soulbliss/SCL-pr
 
 
 
-![edit_md](/home/soulbliss/Desktop/deeps.beta/SCL-progress/img/edit_md.png)
+![edit_md](img/edit_md.png)
 
 
 
@@ -60,7 +60,7 @@ One can directly go to the [README.md file](<https://github.com/soulbliss/SCL-pr
 - **Click on the Propose file change button**.
 
 
-![propose_PR](/home/soulbliss/Desktop/deeps.beta/SCL-progress/img/propose_PR.png)
+![propose_PR](img/propose_PR.png)
 
 <br>
 
