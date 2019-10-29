@@ -43,13 +43,26 @@
 
 #### Guidelines.
 
+<br>
+
+One can directly go to the [README.md file](<https://github.com/soulbliss/SCL-progress/blob/master/README.md>) and click on the edit button on the right most side.
 
 
 
+![edit_md](/home/soulbliss/Desktop/deeps.beta/SCL-progress/img/edit_md.png)
 
 
 
+- Once the changes are made in the markdown file.
 
+- **Select Create a new branch for this commit option** and then,
+
+- **Click on the Propose file change button**.
+
+
+![propose_PR](/home/soulbliss/Desktop/deeps.beta/SCL-progress/img/propose_PR.png)
+
+<br>
 
 #### Work to be done:
 
