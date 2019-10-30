@@ -24,15 +24,15 @@
 
 <br>
 
-### All ISCL Proceedings Links
+### All ISCLS Proceedings Links
 
 | International Sanskrit Computational Linguistics Symposium   | Host University                | Year | Proceedings Link                                             |
 | ------------------------------------------------------------ | ------------------------------ | ---- | ------------------------------------------------------------ |
 | [1st Edition](<https://sanskrit.inria.fr/Symposium/>)        | INRIA Paris, Rocquencourt      | 2007 | [Link](<https://sanskrit.inria.fr/Symposium/Proceedings.pdf>) |
-| [2nd Edition](<https://sanskritlibrary.org/symposium2/home.html>) | Brown University, USA          | 2008 |                                                              |
-| [3rd Edition](<http://sanskrit.uohyd.ac.in/SCL/consortium.html>) | University of Hyderabad, India | 2009 |                                                              |
-| [4th Edition](<http://sanskrit.jnu.ac.in/conf/4iscls/index.jsp>) | JNU, Delhi, India              | 2010 |                                                              |
-| [5th Edition](<https://sites.google.com/site/5isclc2013/Home>) | IIT Bombay                     | 2013 |                                                              |
+| [2nd Edition](<https://sanskritlibrary.org/symposium2/home.html>) | Brown University, USA          | 2008 | [Link](<https://link.springer.com/book/10.1007/978-3-642-00155-0>)                                                         |
+| [3rd Edition](<http://sanskrit.uohyd.ac.in/SCL/consortium.html>) | University of Hyderabad, India | 2009 | [Link]                                                           |
+| [4th Edition](<http://sanskrit.jnu.ac.in/conf/4iscls/index.jsp>) | JNU, Delhi, India              | 2010 | [Link]                                                           |
+| [5th Edition](<https://sites.google.com/site/5isclc2013/Home>) | IIT Bombay                     | 2013 | [Link]                                                             |
 | [6th Edition](<https://iscls.github.io/>)                    | IIT Kharghpur                  | 2019 | [Link](https://www.aclweb.org/anthology/W19-7500/)           |
 
 
